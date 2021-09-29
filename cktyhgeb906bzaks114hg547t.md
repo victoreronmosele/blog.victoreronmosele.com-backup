@@ -42,7 +42,7 @@ Mockito has two ways to generate mock objects:
 
 For this article, we will use the manual mock implementation for simplicity.
 
-A class can be mocked manually creating a class that extends Mock and implements the class to be mocked. 
+A class can be mocked manually by creating a class that extends Mock and implements the class to be mocked. 
 
 Below is a sample from the documentation:
 
