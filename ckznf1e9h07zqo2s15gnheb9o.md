@@ -144,7 +144,7 @@ This helps us prepopulate the mock object right before we call our methods and h
   expect(actualData, data);  /// Passes ✅
   ```
 
-# Testing the FirestoreService class
+# Testing The FirestoreService Class
 We will test the `FirestoreService` class by following the approach described in the `Testing Approach` section above.
 
 This section will be divided into three:
