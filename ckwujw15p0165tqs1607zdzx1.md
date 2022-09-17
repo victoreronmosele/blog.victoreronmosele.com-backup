@@ -67,7 +67,7 @@ SharedPreferences.setMockInitialValues({'counter': 42});
 ## Testing the getCounter() method
 
 
-- *Test that the `getCount()` method returns 0 if there is not value stored in `SharedPreferences`.*
+- *Test that the `getCount()` method returns 0 if there is no value stored in `SharedPreferences`.*
 
     We first call the `SharedPreferences.setMockInitialValues()` and pass it `{}` (empty `Map` object) method to make sure nothing is stored in `SharedPreferences`. We, then, pass it into the `SharedPreferencesUtil` class. 
 
