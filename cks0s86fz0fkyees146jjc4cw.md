@@ -25,7 +25,7 @@ Then we enter our application name. For this article, we'll use "ComposeCounterA
 
 Click on `Finish` and it should open the `ComposeCounterApp` project.
 
-## 1\. UI
+## 1\. <span id="ui">UI </span>
 
 Open the `MainActivity.kt` file. It should contain the default Compose Activity code.
 
