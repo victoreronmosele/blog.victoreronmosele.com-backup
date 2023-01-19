@@ -1,6 +1,6 @@
-## Mocking callbacks in Dart/Flutter unit tests
+# Mocking callbacks in Dart/Flutter unit tests
 
-This article is a guide on how to mock callbacks functions and verify that the callback functions are called in Dart/Flutter unit tests.
+This article is a guide on how to mock callback functions and verify that the callback functions are called in Dart/Flutter unit tests.
 
 The article is divided into:
 
