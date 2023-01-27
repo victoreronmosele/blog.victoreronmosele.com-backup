@@ -1,4 +1,4 @@
-## Mocking and Testing Firestore Operations in Flutter Unit Tests | Part 1 (Documents and Collections)
+# Mocking and Testing Firestore Operations in Flutter Unit Tests | Part 1 (Documents and Collections)
 
 # Introduction
 
@@ -14,13 +14,13 @@ Add the following packages to your `pubspec.yaml` file and run `flutter pub get`
 dependencies:
   ...
   cloud_firestore: ^3.1.4
-  fake_cloud_firestore: ^1.2.0
 
 dev_dependencies:
   ...
   test:
+  fake_cloud_firestore: ^1.2.0
 ```
-This adds `cloud_firestore` which is the Cloud Firestore package, `fake_cloud_firestore` which is the mock Firestore package and `test` which is the package used for unit tests.
+This adds `cloud_firestore` which is the Cloud Firestore package, `test` which is the package used for unit tests and `fake_cloud_firestore` which is the mock Firestore package.
 
 
 # Problem Statement
